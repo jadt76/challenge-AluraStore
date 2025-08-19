@@ -14,6 +14,7 @@ Crear visualizaciones de datos para presentar los hallazgos de forma clara y con
 Proporcionar una recomendación final basada en el análisis de datos.
 
 Estructura del Proyecto
+
 ├── AluraStoreLatam.ipynb (Cuaderno de Jupyter/Colab con todo el código de análisis).
 ├── tienda_1.csv
 ├── tienda_2.csv
